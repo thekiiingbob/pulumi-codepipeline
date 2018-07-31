@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-1
+  pulumi_codepipeline:myConfigVar: configVarValue
+  pulumi_codepipeline:secretName:
+    secure: AAABAFA8Np/YDKMc2hDVhTpUQGoV5hqKvgI+HCYQF5cSPiRS0uTQ1DBqWA==
